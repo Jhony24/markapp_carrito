@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "885769450374",
+    "project_id": "carrito-418d9",
+    "storage_bucket": "carrito-418d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885769450374:android:43f37328ff50caeb303207",
+        "android_client_info": {
+          "package_name": "com.example.carrito_oferta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885769450374-fnhlmku427u87velmjgj95m00sqggsad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carrito_oferta",
+            "certificate_hash": "234c5fcf56fc0c300d801bd8f3ccde591066debc"
+          }
+        },
+        {
+          "client_id": "885769450374-08rl097h8869qsd4rutin6cifoeticc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0v7z5nZDCRMrovNSviB5KTfnRkAjtMxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885769450374-08rl097h8869qsd4rutin6cifoeticc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
